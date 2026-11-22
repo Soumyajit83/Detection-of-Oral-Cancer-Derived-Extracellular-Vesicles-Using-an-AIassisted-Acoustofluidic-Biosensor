@@ -1,0 +1,2 @@
+# Detection-of-Oral-Cancer-Derived-Extracellular-Vesicles-Using-an-AIassisted-Acoustofluidic-Biosensor
+This paper presents a shear-horizontal surface acoustic wave (SH-SAW) biosensor integrated with a machine learning (ML) framework for non-invasive, isolation-free detection of oral squamous cell carcinoma (OSCC) using salivary exosomal biomarkers. Fig. 1 illustrates the conceptual work aiming to achieve in the project.
